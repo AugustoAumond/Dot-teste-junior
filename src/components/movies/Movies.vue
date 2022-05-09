@@ -28,8 +28,27 @@ import CompMovies from "./compmovies/CompMovies.vue"
     max-width: 1100px;
     margin: 0 auto;
     border-radius: 10px;
+
+    @media (max-widht)
 }
 
+@media (max-width: 925px) {
+    .border{
+        height: 2350px;
+    }
+}
+
+@media (max-width: 700px) {
+    .border{
+        height: 3075px;
+    }
+}
+
+@media (max-width: 475px) {
+    .border{
+        height: 5930px;
+    }
+}
 .DivMovies {
     position: relative;
     top: 0px;
