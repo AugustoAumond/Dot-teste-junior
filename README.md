@@ -1,29 +1,17 @@
-# dot-teste
+Boa Noite!
 
-This template should help get you started developing with Vue 3 in Vite.
+Vou adicionar o que apliquei e o que não consegui aplicar ao projeto abaixo.
 
-## Recommended IDE Setup
+Coisas que apliquei:
+1- Consumi a Api para gerar as imagens ao catalogo bem como o nome dos filmes;
+2- Adicionei responsividade junto ao display grid para ficar dinâmico;
+3- Busquei deixar o layout o mais parecido possível;
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.vscode-typescript-vue-plugin).
+Não consegui:
+1- Não consegui adicionar os icons de jeito nenhum, tentei através das bibliotecas do Font-awesome-icons e Bootstrap e também pelo html da forma básica, não obtive sucesso em nenhuma então optei por encaminhar o projeto sem os Icons;
 
-## Customize configuration
+Obs: Peço desculpa pela bagunça do código, nunca tinha trabalhado com Vue antes, eu geralmente produzo meus projetos com React e a forma de trabalhar no Vue é bastante diferente.
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+Obrigado pela oportunidade e fico no aguardo da resposta do teste.
 
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+Att: Augusto Sturmer Aumond.
